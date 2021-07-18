@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+
+        <!-- statusbar and navigation -->
+        <item name="android:statusBarColor">@color/colorBackground</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+
+        <item name="android:navigationBarColor">@color/colorBackground</item>
+    </style>
+<style name="ActionBarTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+    <item name="fontFamily">@font/nunito_sans_extralight</item>
+<item name="android:textColorPrimary">@color/colorText</item>
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+    <style name="SplasTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "420652310466",
+    "firebase_url": "https://xwalls-e2c47.firebaseio.com",
+    "project_id": "xwalls-e2c47",
+    "storage_bucket": "xwalls-e2c47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420652310466:android:8df20e15712fbefe46805b",
+        "android_client_info": {
+          "package_name": "com.sirvi.xwalls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420652310466-45ojqnsujvpq8vkrcjjocatupfg6u8q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sirvi.xwalls",
+            "certificate_hash": "88c95139118c75fdd4a94e6e4b266a54be347e5e"
+          }
+        },
+        {
+          "client_id": "420652310466-8eon4kh308duu53d6u9nnop094brghff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACPkiqXSMtq5O76al0zP5cr7y7BCm7dys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420652310466-8eon4kh308duu53d6u9nnop094brghff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

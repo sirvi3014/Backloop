@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Xwalls</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Welcome">Welcome to Xwalls</string>
+    <string name="admob_id">ca-app-pub-7787396369551949~5341559771</string>
+</resources>
